@@ -1,6 +1,3 @@
-Here's a professional README.md for your GitHub project:
-
-```markdown
 # Python Flask Docker App
 
 A simple Flask application containerized with Docker, demonstrating basic web service deployment.
