@@ -129,38 +129,3 @@ MIT License
 ## Author
 
 Sumanth Malipeddi
-```
-
-## Additional Files to Add
-
-**Create `.gitignore`:**
-```
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.venv/
-venv/
-*.egg-info/
-
-# IDEs
-.vscode/
-.idea/
-
-# Docker
-.dockerignore
-
-# macOS
-.DS_Store
-```
-
-**Create `.dockerignore`:**
-```
-.venv
-__pycache__
-*.pyc
-.git
-.gitignore
-README.md
-.DS_Store
-```
